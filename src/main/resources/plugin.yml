@@ -1,0 +1,5 @@
+name: DiscordLogBridge
+version: 1.0.0
+main: dev.ytbentr.logbridge.DiscordLogBridge
+api-version: '1.21'
+description: Forwards the server latest.log to Discord.
