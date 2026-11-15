@@ -1,0 +1,5 @@
+# Keep your webhook URL private. Do not post it publicly.
+webhook-url: "PASTE_WEBHOOK_URL_HERE"
+poll-interval-ticks: 20
+max-lines-per-message: 12
+send-startup-message: true
